@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NFCInventario</string>
+    <string name="warning_nfc_is_off">NFC is currently turned off!</string>
+    <string name="turn_on_nfc">CredencialTEC can\'t be used without NFC enabled. Please turn on NFC in the Settings and then use the back button to return to this app.</string>
+    <string name="instructions">Escanea la etiqueta NFC para actualizar la información del estudiante. </string>
+    <string name="student_name">Nombre: </string>
+    <string name="student_id">Matrícula: </string>
+    <string name="student_career">Carrera: </string>
+    <string name="student_email">E-mail: </string>
+    <string name="write_to_tag_button_label">Guardar estudiante</string>
+    <string name="new_tag_found">New student tag found!</string>
+    <string name="replace_current_tag">Read tag and replace currently displayed tag information in the textfields?</string>
+    <string name="ready_to_write">Ready to write to NFC tag!</string>
+    <string name="ready_to_write_instructions">Touch your device to a student\'s tag to update the student information.</string>
+    <string name="ready_to_write_instructions_generic">Touch your device a tag to write.</string>
+    <string name="introduce_student_name">Introduce nombre</string>
+    <string name="introduce_student_id">Introduce matrícula</string>
+    <string name="introduce_student_career">Introduce carrera</string>
+    <string name="introduce_student_email">Introduce e-mail</string>
+</resources>
